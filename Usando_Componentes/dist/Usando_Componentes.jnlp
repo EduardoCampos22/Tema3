@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Usando_Componentes.jnlp">
+  <information>
+    <title>Usando_Componentes</title>
+    <vendor>Eduardo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Usando_Componentes.jar" size="1940" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="usando_campotextoboton.Usando_CampoTextoBoton"  name="Usando_Componentes" />
+  <update check="always"/>
+</jnlp>
