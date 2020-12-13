@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Componentes_CamposEduardo.jnlp">
+  <information>
+    <title>Componentes_CamposEduardo</title>
+    <vendor>Eduardo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Componentes_CamposEduardo.jar" size="5481" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="componentes_camposeduardo.Componentes_CamposEduardo"  name="Componentes_CamposEduardo" />
+  <update check="always"/>
+</jnlp>
